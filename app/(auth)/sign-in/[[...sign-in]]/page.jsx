@@ -30,12 +30,11 @@ export default function Page() {
         </a>
 
         <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-          Welcome to Mock AI Interviewer 🦑
+          Welcome to Mock AI Interviewer 
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-          quibusdam aperiam voluptatum.
+        Mock AI Interviewer helps candidates prepare for job interviews by simulating real-world scenarios with AI-driven questions and personalized feedback.
         </p>
       </div>
     </section>
@@ -64,12 +63,11 @@ export default function Page() {
           </a>
 
           <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-            Welcome to Squid 🦑
+            Welcome to Mock AI Interviewer 
           </h1>
 
           <p className="mt-4 leading-relaxed text-gray-500">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-            quibusdam aperiam voluptatum.
+          Mock AI Interviewer helps candidates prepare for job interviews by simulating real-world scenarios with AI-driven questions and personalized feedback.
           </p>
         </div>
 

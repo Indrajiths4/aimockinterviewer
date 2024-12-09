@@ -20,7 +20,6 @@ import { useUser } from '@clerk/nextjs';
 import moment from 'moment';
 import { useRouter } from 'next/navigation';
 
-
 function AddNewInterview() {
     const {user}=useUser();
     const [openDialog,setopenDialog] = useState(false);
@@ -30,7 +29,6 @@ function AddNewInterview() {
     const [loading,setLoading]=useState(false);
     //const [jsonResponse,setJsonResponse]=useState([]);
     const router=useRouter();
-
 
     const onSubmit = async(e) => {
         setLoading(true);
